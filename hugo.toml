@@ -1,4 +1,4 @@
 baseURL = 'https://cocochen79.github.io/' 
 locale = 'zh-Hant'
-title = 'My New Hugo Project'
+title = '我的第一個網站'
 theme = 'ananke'
